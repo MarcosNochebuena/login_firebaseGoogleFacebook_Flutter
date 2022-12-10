@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+    <string name="app_name">Login_Flutteer</string>
+    <string name="facebook_app_id">3486291958320699</string>
+    <string name="fb_login_protocol_scheme">fb3486291958320699</string>
+    <string name="facebook_client_token">6fae3bf1905b926b6287904873b5f5ea</string>
+
+</resource>
